@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://airbornemint.github.io
+title: Ben Artin
+tagline: A log of everyday life
+description: My awesome new site
+paginate: 5
